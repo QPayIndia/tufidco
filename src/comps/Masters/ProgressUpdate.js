@@ -187,7 +187,7 @@ const ProgressUpdate = () => {
                   <tr>
                     <td style={{width:"30%"}}>
                     <p >
-                  Site Photo Before Commensement
+                  Site Photo Before Commencement
                     </p>
                     </td>
                     <td style={{width:"100%"}}>
