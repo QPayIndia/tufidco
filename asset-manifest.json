@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tufidco/static/css/main.b303cafc.css",
+    "main.js": "/tufidco/static/js/main.18e64690.js",
+    "static/js/787.625357ab.chunk.js": "/tufidco/static/js/787.625357ab.chunk.js",
+    "static/media/tn-l.png": "/tufidco/static/media/tn-l.0f47287e22100be4e0c9.png",
+    "static/media/revenueIcon.svg": "/tufidco/static/media/revenueIcon.6c4f7119db80f3e2418d3b65ddab1b4f.svg",
+    "static/media/totalUser.svg": "/tufidco/static/media/totalUser.bfc94b4c4832703dfcf7b38663492b1c.svg",
+    "static/media/contractor.svg": "/tufidco/static/media/contractor.a04e242b6d9d97b2bebf6f178ed6afb7.svg",
+    "static/media/totalTransIcon.svg": "/tufidco/static/media/totalTransIcon.306cabeb30c6e0203936af6ebfdc34d5.svg",
+    "static/media/home.svg": "/tufidco/static/media/home.dea3f6e60a4ab2afa71189dac110a294.svg",
+    "static/media/likesIcon.svg": "/tufidco/static/media/likesIcon.452e530c86866678893f116229140a2f.svg",
+    "static/media/google-icon.svg": "/tufidco/static/media/google-icon.aa3f48282ed4d82b3dd747083e488af9.svg",
+    "static/media/menu.svg": "/tufidco/static/media/menu.1f82f8efabe260bb05e3f979819a3e3a.svg",
+    "static/media/architect.svg": "/tufidco/static/media/architect.2041fb03ef5fd227863e31c1ea5a4a2f.svg",
+    "static/media/notification.svg": "/tufidco/static/media/notification.a21bc994e84482cd1c660819886490b6.svg",
+    "static/media/apple-icon.svg": "/tufidco/static/media/apple-icon.a792e594fe18353bdd70e37a3510d470.svg",
+    "index.html": "/tufidco/index.html",
+    "static/media/search.svg": "/tufidco/static/media/search.063cb8f0db78e84763a7b4c2b4816000.svg",
+    "main.b303cafc.css.map": "/tufidco/static/css/main.b303cafc.css.map",
+    "main.18e64690.js.map": "/tufidco/static/js/main.18e64690.js.map",
+    "787.625357ab.chunk.js.map": "/tufidco/static/js/787.625357ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b303cafc.css",
+    "static/js/main.18e64690.js"
+  ]
+}
