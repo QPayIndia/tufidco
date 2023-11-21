@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tufidco/static/css/main.b303cafc.css",
-    "main.js": "/tufidco/static/js/main.ee8be7bb.js",
+    "main.js": "/tufidco/static/js/main.5fcda269.js",
     "static/js/787.625357ab.chunk.js": "/tufidco/static/js/787.625357ab.chunk.js",
     "static/media/tn-l.png": "/tufidco/static/media/tn-l.0f47287e22100be4e0c9.png",
     "static/media/revenueIcon.svg": "/tufidco/static/media/revenueIcon.6c4f7119db80f3e2418d3b65ddab1b4f.svg",
@@ -18,11 +18,11 @@
     "index.html": "/tufidco/index.html",
     "static/media/search.svg": "/tufidco/static/media/search.063cb8f0db78e84763a7b4c2b4816000.svg",
     "main.b303cafc.css.map": "/tufidco/static/css/main.b303cafc.css.map",
-    "main.ee8be7bb.js.map": "/tufidco/static/js/main.ee8be7bb.js.map",
+    "main.5fcda269.js.map": "/tufidco/static/js/main.5fcda269.js.map",
     "787.625357ab.chunk.js.map": "/tufidco/static/js/787.625357ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b303cafc.css",
-    "static/js/main.ee8be7bb.js"
+    "static/js/main.5fcda269.js"
   ]
 }
