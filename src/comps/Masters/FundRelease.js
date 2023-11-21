@@ -129,7 +129,7 @@ const FundRelease = () => {
                     </td>
                     <td style={{width:"100%"}}>
                     <div style={{width:"100%",gap:"20px",display:"flex",flexDirection:"row"}}>
-                    <input style={{height:"30px",marginLeft:"20px",width:"80%"}} type="text"></input>
+                    <input style={{height:"30px",marginLeft:"20px",width:"40%"}} type="text"></input>
                     <p>(Lakh)</p>
                       </div>
                    

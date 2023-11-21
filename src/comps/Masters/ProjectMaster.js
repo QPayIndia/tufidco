@@ -47,7 +47,7 @@ const ProjectMaster = () => {
     {
       name:"Ring Road",
       ulb:"Ambasamudram",
-      sector: "SRP",
+      sector: "BT Roads",
       id:"K_MI_088_2022_W_1993"
     }
     
@@ -159,7 +159,7 @@ const ProjectMaster = () => {
                   <tr>
                     <td style={{width:"30%"}}>
                     <p >
-                 Administration Sanction Name
+                 Administration Sanction Ref. No.
                     </p>
                     </td>
                     <td style={{width:"100%"}}>

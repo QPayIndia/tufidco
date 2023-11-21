@@ -127,7 +127,7 @@ const ReleaseHistory = () => {
               Release Date
                 </td>
                 <td>
-                Release Amount (Lakhs)
+                Release Amount (Lakh)
                 </td>
                 
                 

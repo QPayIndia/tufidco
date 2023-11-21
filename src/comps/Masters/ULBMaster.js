@@ -43,12 +43,12 @@ const ULBMaster = () => {
    
     {
       name:"Ambasamudram",
-      district:"Chennai",
+      district:"Tirunelveli",
       type :"-"
     },
     {
       name:"Pudukottai",
-      district : "Kanchipuram",
+      district : "Pudukottai",
       type :"-"
     }
   ];
@@ -145,9 +145,16 @@ const ULBMaster = () => {
            <div style={{display:"flex",justifyContent:"space-evenly",flexDirection:"column"}}> 
            <p >Upload Master Excel File</p>
            </div>
-              <div className="Btn" style={{marginLeft:"20px"}}>
-              Select File
-              </div>
+          
+                              <div style={{display:"flex",flexDirection:"row",gap:"10px"}}>
+                    <div className="Btn" style={{marginLeft:"20px"}}>
+                          Select File
+                        </div>
+                        <div style={{justifyContent:"space-evenly",display:"flex",flexDirection:"column"}}>
+                        <p className="text">(Max. 2 MB is allowed)</p>
+                        </div>
+                        </div>
+                        
               
 
             </div>
