@@ -39,14 +39,7 @@ const MobileNav = () => {
         {name: "Fund Release", link: "/fundrelease"},
       ],
     },
-    {
-      name: "Progress",
-      icon: "clock_loader_20",
-      subNavs: [
-        {name: "Financial Progress", link: "/financialprogress"},
-        {name: "Physical Progress", link: "/projectupdation"},
-      ],
-    },
+   
     {
       name: "Reports",
       icon: "monitoring",
