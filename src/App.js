@@ -67,7 +67,7 @@ import FinancialProgress from "./comps/Masters/FinancialProgress";
 
  function App() {
   return (
-    <Router basename="/tufidcoPMIS">
+    <Router basename="/tufidco">
     <Routes>
       <Route path="/login" element={<SignIn />} />
       <Route path="/navs" element={<VendorMaster />} />
