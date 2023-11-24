@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tufidco/static/css/main.a1e675bc.css",
-    "main.js": "/tufidco/static/js/main.841a463a.js",
+    "main.css": "/tufidco/static/css/main.96632a09.css",
+    "main.js": "/tufidco/static/js/main.cc04f5b2.js",
     "static/js/787.625357ab.chunk.js": "/tufidco/static/js/787.625357ab.chunk.js",
     "static/media/tn-l.png": "/tufidco/static/media/tn-l.0f47287e22100be4e0c9.png",
     "static/media/revenueIcon.svg": "/tufidco/static/media/revenueIcon.6c4f7119db80f3e2418d3b65ddab1b4f.svg",
@@ -17,12 +17,12 @@
     "static/media/apple-icon.svg": "/tufidco/static/media/apple-icon.a792e594fe18353bdd70e37a3510d470.svg",
     "index.html": "/tufidco/index.html",
     "static/media/search.svg": "/tufidco/static/media/search.063cb8f0db78e84763a7b4c2b4816000.svg",
-    "main.a1e675bc.css.map": "/tufidco/static/css/main.a1e675bc.css.map",
-    "main.841a463a.js.map": "/tufidco/static/js/main.841a463a.js.map",
+    "main.96632a09.css.map": "/tufidco/static/css/main.96632a09.css.map",
+    "main.cc04f5b2.js.map": "/tufidco/static/js/main.cc04f5b2.js.map",
     "787.625357ab.chunk.js.map": "/tufidco/static/js/787.625357ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1e675bc.css",
-    "static/js/main.841a463a.js"
+    "static/css/main.96632a09.css",
+    "static/js/main.cc04f5b2.js"
   ]
 }
